@@ -1,4 +1,4 @@
-package com.company.NIZOVI;
+/*package com.company.NIZOVI;
 
 import java.util.Scanner;
 
@@ -38,3 +38,4 @@ public class AritmetičkaSredina {
         return 23.8;
     }
 }
+*/
